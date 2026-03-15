@@ -27,4 +27,4 @@ O padrão Strategy foi implementado através de três componentes principais:
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/leticiabrilhante/desafio-dio-java.git
